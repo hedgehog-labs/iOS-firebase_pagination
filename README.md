@@ -22,7 +22,7 @@ In this repository you can find two Xcode projects:
 
 ### Database Configuration
 
-1. Download the databse sample json [here](here)
+1. Download the databse sample json [here](https://github.com/hedgehog-labs/iOS-firebase_pagination/blob/master/database.json)
 2. Import the json to your firebase database
 3. Grant the required permissions and indexes to the app  by changing the database rules in the firebase console
 
@@ -32,7 +32,7 @@ In this repository you can find two Xcode projects:
         ".read": "true",
         ".write": "auth != null",
         "players":{
-            ".indexOn":"ranking"
+            ".indexOn":"score"
         }
     }
 }
