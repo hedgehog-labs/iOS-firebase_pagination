@@ -1,0 +1,6 @@
+framework module Pods_fb_pagination {
+  umbrella header "Pods-fb pagination-umbrella.h"
+
+  export *
+  module * { export * }
+}

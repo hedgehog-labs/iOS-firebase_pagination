@@ -1,0 +1,7 @@
+target 'fb pagination' do
+  use_frameworks!
+
+  pod 'Firebase/Core'
+  pod 'Firebase/Database'
+
+end

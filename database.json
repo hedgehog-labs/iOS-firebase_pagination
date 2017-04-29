@@ -1,0 +1,604 @@
+{
+  "players" : {
+    "-KiGwELyMBaSEkSVOG7k" : {
+      "avatar" : "flash_icon",
+      "index" : 0,
+      "name" : "player0",
+      "score" : 1650
+    },
+    "-KiGwELzAyenhMyviVOC" : {
+      "avatar" : "batman_icon",
+      "index" : 1,
+      "name" : "player1",
+      "score" : 1234
+    },
+    "-KiGwELzAyenhMyviVOD" : {
+      "avatar" : "drfate_icon",
+      "index" : 2,
+      "name" : "player2",
+      "score" : 2785
+    },
+    "-KiGwELzAyenhMyviVOE" : {
+      "avatar" : "superman_icon",
+      "index" : 3,
+      "name" : "player3",
+      "score" : 100
+    },
+    "-KiGwELzAyenhMyviVOF" : {
+      "avatar" : "flash_icon",
+      "index" : 4,
+      "name" : "player4",
+      "score" : 720
+    },
+    "-KiGwELzAyenhMyviVOG" : {
+      "avatar" : "batman_icon",
+      "index" : 5,
+      "name" : "player5",
+      "score" : 2174
+    },
+    "-KiGwELzAyenhMyviVOH" : {
+      "avatar" : "batman_icon",
+      "index" : 6,
+      "name" : "player6",
+      "score" : 725
+    },
+    "-KiGwELzAyenhMyviVOI" : {
+      "avatar" : "bane_icon",
+      "index" : 7,
+      "name" : "player7",
+      "score" : 102
+    },
+    "-KiGwELzAyenhMyviVOJ" : {
+      "avatar" : "drfate_icon",
+      "index" : 8,
+      "name" : "player8",
+      "score" : 1868
+    },
+    "-KiGwELzAyenhMyviVOK" : {
+      "avatar" : "superman_icon",
+      "index" : 9,
+      "name" : "player9",
+      "score" : 2694
+    },
+    "-KiGwELzAyenhMyviVOL" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 10,
+      "name" : "player10",
+      "score" : 107
+    },
+    "-KiGwELzAyenhMyviVOM" : {
+      "avatar" : "flash_icon",
+      "index" : 11,
+      "name" : "player11",
+      "score" : 1141
+    },
+    "-KiGwELzAyenhMyviVON" : {
+      "avatar" : "bane_icon",
+      "index" : 12,
+      "name" : "player12",
+      "score" : 2277
+    },
+    "-KiGwELzAyenhMyviVOO" : {
+      "avatar" : "drfate_icon",
+      "index" : 13,
+      "name" : "player13",
+      "score" : 2077
+    },
+    "-KiGwELzAyenhMyviVOP" : {
+      "avatar" : "bane_icon",
+      "index" : 14,
+      "name" : "player14",
+      "score" : 1247
+    },
+    "-KiGwELzAyenhMyviVOQ" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 15,
+      "name" : "player15",
+      "score" : 2390
+    },
+    "-KiGwELzAyenhMyviVOR" : {
+      "avatar" : "flash_icon",
+      "index" : 16,
+      "name" : "player16",
+      "score" : 1459
+    },
+    "-KiGwEM--MVOyoR2sk8A" : {
+      "avatar" : "cyborg_icon",
+      "index" : 17,
+      "name" : "player17",
+      "score" : 836
+    },
+    "-KiGwEM--MVOyoR2sk8B" : {
+      "avatar" : "superman_icon",
+      "index" : 18,
+      "name" : "player18",
+      "score" : 1231
+    },
+    "-KiGwEM--MVOyoR2sk8C" : {
+      "avatar" : "drfate_icon",
+      "index" : 19,
+      "name" : "player19",
+      "score" : 299
+    },
+    "-KiGwEM--MVOyoR2sk8D" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 20,
+      "name" : "player20",
+      "score" : 2703
+    },
+    "-KiGwEM--MVOyoR2sk8E" : {
+      "avatar" : "cyborg_icon",
+      "index" : 21,
+      "name" : "player21",
+      "score" : 323
+    },
+    "-KiGwEM--MVOyoR2sk8F" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 22,
+      "name" : "player22",
+      "score" : 1148
+    },
+    "-KiGwEM--MVOyoR2sk8G" : {
+      "avatar" : "batman_icon",
+      "index" : 23,
+      "name" : "player23",
+      "score" : 1338
+    },
+    "-KiGwEM--MVOyoR2sk8H" : {
+      "avatar" : "wonderwoman_icon",
+      "index" : 24,
+      "name" : "player24",
+      "score" : 842
+    },
+    "-KiGwEM--MVOyoR2sk8I" : {
+      "avatar" : "cyborg_icon",
+      "index" : 25,
+      "name" : "player25",
+      "score" : 2912
+    },
+    "-KiGwEM--MVOyoR2sk8J" : {
+      "avatar" : "bane_icon",
+      "index" : 26,
+      "name" : "player26",
+      "score" : 1443
+    },
+    "-KiGwEM--MVOyoR2sk8K" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 27,
+      "name" : "player27",
+      "score" : 2063
+    },
+    "-KiGwEM--MVOyoR2sk8L" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 28,
+      "name" : "player28",
+      "score" : 2068
+    },
+    "-KiGwEM--MVOyoR2sk8M" : {
+      "avatar" : "batman_icon",
+      "index" : 29,
+      "name" : "player29",
+      "score" : 2689
+    },
+    "-KiGwEM--MVOyoR2sk8N" : {
+      "avatar" : "wonderwoman_icon",
+      "index" : 30,
+      "name" : "player30",
+      "score" : 2482
+    },
+    "-KiGwEM--MVOyoR2sk8O" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 31,
+      "name" : "player31",
+      "score" : 1550
+    },
+    "-KiGwEM--MVOyoR2sk8P" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 32,
+      "name" : "player32",
+      "score" : 1365
+    },
+    "-KiGwEM0AMmfcb10J_PP" : {
+      "avatar" : "wonderwoman_icon",
+      "index" : 33,
+      "name" : "player33",
+      "score" : 1555
+    },
+    "-KiGwEM0AMmfcb10J_PQ" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 34,
+      "name" : "player34",
+      "score" : 2070
+    },
+    "-KiGwEM0AMmfcb10J_PR" : {
+      "avatar" : "cyborg_icon",
+      "index" : 35,
+      "name" : "player35",
+      "score" : 2690
+    },
+    "-KiGwEM0AMmfcb10J_PS" : {
+      "avatar" : "batman_icon",
+      "index" : 36,
+      "name" : "player36",
+      "score" : 2695
+    },
+    "-KiGwEM0AMmfcb10J_PT" : {
+      "avatar" : "superman_icon",
+      "index" : 37,
+      "name" : "player37",
+      "score" : 625
+    },
+    "-KiGwEM0AMmfcb10J_PU" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 38,
+      "name" : "player38",
+      "score" : 9
+    },
+    "-KiGwEM0AMmfcb10J_PV" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 39,
+      "name" : "player39",
+      "score" : 1664
+    },
+    "-KiGwEM0AMmfcb10J_PW" : {
+      "avatar" : "flash_icon",
+      "index" : 40,
+      "name" : "player40",
+      "score" : 2490
+    },
+    "-KiGwEM0AMmfcb10J_PX" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 41,
+      "name" : "player41",
+      "score" : 2330
+    },
+    "-KiGwEM0AMmfcb10J_PY" : {
+      "avatar" : "flash_icon",
+      "index" : 42,
+      "name" : "player42",
+      "score" : 1811
+    },
+    "-KiGwEM0AMmfcb10J_PZ" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 43,
+      "name" : "player43",
+      "score" : 1811
+    },
+    "-KiGwEM0AMmfcb10J_P_" : {
+      "avatar" : "flash_icon",
+      "index" : 44,
+      "name" : "player44",
+      "score" : 264
+    },
+    "-KiGwEM0AMmfcb10J_Pa" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 45,
+      "name" : "player45",
+      "score" : 884
+    },
+    "-KiGwEM0AMmfcb10J_Pb" : {
+      "avatar" : "drfate_icon",
+      "index" : 46,
+      "name" : "player46",
+      "score" : 268
+    },
+    "-KiGwEM0AMmfcb10J_Pc" : {
+      "avatar" : "batman_icon",
+      "index" : 47,
+      "name" : "player47",
+      "score" : 889
+    },
+    "-KiGwEM0AMmfcb10J_Pd" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 48,
+      "name" : "player48",
+      "score" : 162
+    },
+    "-KiGwEM0AMmfcb10J_Pe" : {
+      "avatar" : "bane_icon",
+      "index" : 49,
+      "name" : "player49",
+      "score" : 167
+    },
+    "-KiGwEM1myyuW93xZEIG" : {
+      "avatar" : "bane_icon",
+      "index" : 50,
+      "name" : "player50",
+      "score" : 373
+    },
+    "-KiGwEM1myyuW93xZEIH" : {
+      "avatar" : "bane_icon",
+      "index" : 51,
+      "name" : "player51",
+      "score" : 166
+    },
+    "-KiGwEM1myyuW93xZEII" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 52,
+      "name" : "player52",
+      "score" : 787
+    },
+    "-KiGwEM1myyuW93xZEIJ" : {
+      "avatar" : "flash_icon",
+      "index" : 53,
+      "name" : "player53",
+      "score" : 792
+    },
+    "-KiGwEM1myyuW93xZEIK" : {
+      "avatar" : "batman_icon",
+      "index" : 54,
+      "name" : "player54",
+      "score" : 1412
+    },
+    "-KiGwEM1myyuW93xZEIL" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 55,
+      "name" : "player55",
+      "score" : 686
+    },
+    "-KiGwEM1myyuW93xZEIM" : {
+      "avatar" : "bane_icon",
+      "index" : 56,
+      "name" : "player56",
+      "score" : 691
+    },
+    "-KiGwEM1myyuW93xZEIN" : {
+      "avatar" : "aquaman_icon",
+      "index" : 57,
+      "name" : "player57",
+      "score" : 2864
+    },
+    "-KiGwEM1myyuW93xZEIO" : {
+      "avatar" : "drfate_icon",
+      "index" : 58,
+      "name" : "player58",
+      "score" : 2869
+    },
+    "-KiGwEM1myyuW93xZEIP" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 59,
+      "name" : "player59",
+      "score" : 488
+    },
+    "-KiGwEM1myyuW93xZEIQ" : {
+      "avatar" : "superman_icon",
+      "index" : 60,
+      "name" : "player60",
+      "score" : 1314
+    },
+    "-KiGwEM1myyuW93xZEIR" : {
+      "avatar" : "superman_icon",
+      "index" : 61,
+      "name" : "player61",
+      "score" : 1107
+    },
+    "-KiGwEM1myyuW93xZEIS" : {
+      "avatar" : "drfate_icon",
+      "index" : 62,
+      "name" : "player62",
+      "score" : 1727
+    },
+    "-KiGwEM1myyuW93xZEIT" : {
+      "avatar" : "batman_icon",
+      "index" : 63,
+      "name" : "player63",
+      "score" : 1732
+    },
+    "-KiGwEM2eCwjFdbyaMRX" : {
+      "avatar" : "flash_icon",
+      "index" : 64,
+      "name" : "player64",
+      "score" : 2353
+    },
+    "-KiGwEM2eCwjFdbyaMRY" : {
+      "avatar" : "batman_icon",
+      "index" : 65,
+      "name" : "player65",
+      "score" : 1316
+    },
+    "-KiGwEM2eCwjFdbyaMRZ" : {
+      "avatar" : "aquaman_icon",
+      "index" : 66,
+      "name" : "player66",
+      "score" : 988
+    },
+    "-KiGwEM2eCwjFdbyaMR_" : {
+      "avatar" : "batman_icon",
+      "index" : 67,
+      "name" : "player67",
+      "score" : 1321
+    },
+    "-KiGwEM2eCwjFdbyaMRa" : {
+      "avatar" : "batman_icon",
+      "index" : 68,
+      "name" : "player68",
+      "score" : 1941
+    },
+    "-KiGwEM2eCwjFdbyaMRb" : {
+      "avatar" : "aquaman_icon",
+      "index" : 69,
+      "name" : "player69",
+      "score" : 887
+    },
+    "-KiGwEM2eCwjFdbyaMRc" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 70,
+      "name" : "player70",
+      "score" : 1507
+    },
+    "-KiGwEM2eCwjFdbyaMRd" : {
+      "avatar" : "superman_icon",
+      "index" : 71,
+      "name" : "player71",
+      "score" : 2360
+    },
+    "-KiGwEM2eCwjFdbyaMRe" : {
+      "avatar" : "aquaman_icon",
+      "index" : 72,
+      "name" : "player72",
+      "score" : 184
+    },
+    "-KiGwEM2eCwjFdbyaMRf" : {
+      "avatar" : "superman_icon",
+      "index" : 73,
+      "name" : "player73",
+      "score" : 805
+    },
+    "-KiGwEM2eCwjFdbyaMRg" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 74,
+      "name" : "player74",
+      "score" : 2752
+    },
+    "-KiGwEM2eCwjFdbyaMRh" : {
+      "avatar" : "flash_icon",
+      "index" : 75,
+      "name" : "player75",
+      "score" : 1820
+    },
+    "-KiGwEM2eCwjFdbyaMRi" : {
+      "avatar" : "cyborg_icon",
+      "index" : 76,
+      "name" : "player76",
+      "score" : 1825
+    },
+    "-KiGwEM2eCwjFdbyaMRj" : {
+      "avatar" : "superman_icon",
+      "index" : 77,
+      "name" : "player77",
+      "score" : 2446
+    },
+    "-KiGwEM2eCwjFdbyaMRk" : {
+      "avatar" : "drfate_icon",
+      "index" : 78,
+      "name" : "player78",
+      "score" : 270
+    },
+    "-KiGwEM2eCwjFdbyaMRl" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 79,
+      "name" : "player79",
+      "score" : 1724
+    },
+    "-KiGwEM2eCwjFdbyaMRm" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 80,
+      "name" : "player80",
+      "score" : 793
+    },
+    "-KiGwEM3TvdX1ynac9LK" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 81,
+      "name" : "player81",
+      "score" : 586
+    },
+    "-KiGwEM3TvdX1ynac9LL" : {
+      "avatar" : "batman_icon",
+      "index" : 82,
+      "name" : "player82",
+      "score" : 1206
+    },
+    "-KiGwEM3TvdX1ynac9LM" : {
+      "avatar" : "aquaman_icon",
+      "index" : 83,
+      "name" : "player83",
+      "score" : 2031
+    },
+    "-KiGwEM3TvdX1ynac9LN" : {
+      "avatar" : "bane_icon",
+      "index" : 84,
+      "name" : "player84",
+      "score" : 279
+    },
+    "-KiGwEM3TvdX1ynac9LO" : {
+      "avatar" : "drfate_icon",
+      "index" : 85,
+      "name" : "player85",
+      "score" : 1105
+    },
+    "-KiGwEM3TvdX1ynac9LP" : {
+      "avatar" : "flash_icon",
+      "index" : 86,
+      "name" : "player86",
+      "score" : 1725
+    },
+    "-KiGwEM3TvdX1ynac9LQ" : {
+      "avatar" : "superman_icon",
+      "index" : 87,
+      "name" : "player87",
+      "score" : 1730
+    },
+    "-KiGwEM3TvdX1ynac9LR" : {
+      "avatar" : "wonderwoman_icon",
+      "index" : 88,
+      "name" : "player88",
+      "score" : 1004
+    },
+    "-KiGwEM3TvdX1ynac9LS" : {
+      "avatar" : "bane_icon",
+      "index" : 89,
+      "name" : "player89",
+      "score" : 804
+    },
+    "-KiGwEM3TvdX1ynac9LT" : {
+      "avatar" : "bluebeetle_icon",
+      "index" : 90,
+      "name" : "player90",
+      "score" : 1629
+    },
+    "-KiGwEM3TvdX1ynac9LU" : {
+      "avatar" : "cyborg_icon",
+      "index" : 91,
+      "name" : "player91",
+      "score" : 2250
+    },
+    "-KiGwEM3TvdX1ynac9LV" : {
+      "avatar" : "cyborg_icon",
+      "index" : 92,
+      "name" : "player92",
+      "score" : 2043
+    },
+    "-KiGwEM3TvdX1ynac9LW" : {
+      "avatar" : "aquaman_icon",
+      "index" : 93,
+      "name" : "player93",
+      "score" : 2664
+    },
+    "-KiGwEM3TvdX1ynac9LX" : {
+      "avatar" : "greenlantern_icon",
+      "index" : 94,
+      "name" : "player94",
+      "score" : 2669
+    },
+    "-KiGwEM3TvdX1ynac9LY" : {
+      "avatar" : "batman_icon",
+      "index" : 95,
+      "name" : "player95",
+      "score" : 288
+    },
+    "-KiGwEM3TvdX1ynac9LZ" : {
+      "avatar" : "bane_icon",
+      "index" : 96,
+      "name" : "player96",
+      "score" : 2563
+    },
+    "-KiGwEM3TvdX1ynac9L_" : {
+      "avatar" : "cyborg_icon",
+      "index" : 97,
+      "name" : "player97",
+      "score" : 2568
+    },
+    "-KiGwEM4AW2yGwf7yes4" : {
+      "avatar" : "drfate_icon",
+      "index" : 98,
+      "name" : "player98",
+      "score" : 686
+    },
+    "-KiGwEM4AW2yGwf7yes5" : {
+      "avatar" : "batman_icon",
+      "index" : 99,
+      "name" : "player99",
+      "score" : 2570
+    }
+  }
+}
